@@ -1,0 +1,70 @@
+.tutorial {
+    width: 600px;
+    text-align: center;
+    margin: auto;
+}
+
+
+
+figure.image {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+figure .image img {
+    width: 128px;
+}
+
+.notification {
+    margin-top: 20px !important;
+}
+
+.results {
+    max-height: 500px;
+    overflow-y: scroll;
+}
+
+.title .icon {
+    margin-left: 15px;
+}
+
+.hero {
+    margin-bottom: 20px;
+}
+
+.forms {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* .dropdown-item {
+    display: flex;
+    align-items: center;
+    height: 60px;
+}
+
+.dropdown-item img {
+    height: 50px;
+    margin-right: 10px;
+} */
+
+#movieSection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+
+input {
+    position: absolute;
+    right: 50px;
+    top: 58px
+}
+
+.test {
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
